@@ -1,0 +1,9 @@
+Package: com.thomasfinch.graync
+Name: GrayNC
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Changes NC linen to transparent gray
+Maintainer: Thomas Finch
+Author: Thomas Finch
+Section: Tweaks
